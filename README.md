@@ -645,9 +645,6 @@ CloudflareST.exe -f 1.txt
 
 ****
 
-## 赞赏支持
-
-![微信赞赏](https://github.com/XIU2/XIU2/blob/master/img/zs-01.png)![支付宝赞赏](https://github.com/XIU2/XIU2/blob/master/img/zs-02.png)
 
 ****
 
